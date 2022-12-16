@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sanjaykms or Sanjay K
 - 👀 I’m interested in web programming and programming
-- 🌱 I’m currently learning React js, Firebase and curious on learning a lot. 
+- 🌱 I’m currently learning about metaverse (unity, blender and more) and curious on learning a lot. 
 - 📫 How to reach me ... sanjaykmsmoorthy@gmail.com
 
 <!---
