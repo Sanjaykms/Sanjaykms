@@ -1,7 +1,7 @@
 **Greetings, Traveler of Code!** 🌌  
 I’m **Sanjay K**, a **Digital Alchemist** weaving magic through **code and creativity**.  
 
-💻 Armed with **MERN** and **Java SpringBoot**, I don’t just build apps—I create **living, breathing digital ecosystems**. Whether it's designing elegant front-ends or constructing robust back-ends, I bring visions to life with every keystroke.  
+💻 Armed with **Full stack**, I don’t just build apps—I create **living, breathing digital ecosystems**. Whether it's designing elegant front-ends or constructing robust back-ends, I bring visions to life with every keystroke.  
 
 But why limit myself to just one world? I’m venturing into the **Metaverse**, where **imagination meets reality**. With the limitless power of **Unity** and **Blender**, I’m sculpting experiences that transcend the screen, crafting interactive worlds where anything is possible.  
 
