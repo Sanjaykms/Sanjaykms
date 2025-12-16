@@ -1,5 +1,6 @@
-**Greetings, Traveler of Code!** 🌌  
-I’m **Sanjay K**, a **Digital Alchemist** weaving magic through **code and creativity**.  
+**Greetings!** 🌌  
+I’m **Sanjay K**
+**Code and creativity**
 
 💻 Armed with **Full stack**, I don’t just build apps—I create **living, breathing digital ecosystems**. Whether it's designing elegant front-ends or constructing robust back-ends, I bring visions to life with every keystroke.  
 
