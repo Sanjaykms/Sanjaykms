@@ -1,14 +1,10 @@
-**Greetings!** 🌌  
-I’m **Sanjay K**
+Hi, I’m Sanjay K — a Full-Stack Developer passionate about building scalable, user-focused applications.
 
-**Code and creativity**
+I work across the stack, creating responsive front-ends and robust back-end systems that turn ideas into reliable digital products. With 3+ years of experience, I enjoy solving real-world problems through clean architecture and thoughtful design.
 
-💻 Armed with **Full stack**, I don’t just build apps—I create **living, breathing digital ecosystems**. Whether it's designing elegant front-ends or constructing robust back-ends, I bring visions to life with every keystroke.  
+Currently exploring the Metaverse with Unity and Blender, building interactive 3D experiences beyond traditional web development.
 
-But why limit myself to just one world? I’m venturing into the **Metaverse**, where **imagination meets reality**. With the limitless power of **Unity** and **Blender**, I’m sculpting experiences that transcend the screen, crafting interactive worlds where anything is possible.  
+Let’s connect and build something impactful. 🚀
+📧 sanjaykmsmoorthy@gmail.com
 
-🔥 **Innovator. Dreamer. Creator.** My journey never stops, and every day is a new adventure in pushing boundaries, defying the impossible, and learning something incredible along the way.  
-
-Are you ready to shape the future together?  
-📧 Let’s connect: **sanjaykmsmoorthy@gmail.com**  
-🌍 Step into my world: [Explore My Realm](https://sanjaykms.github.io/profile/)
+🌍 https://sanjaykms.github.io/profile/
