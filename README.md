@@ -5,6 +5,7 @@ I work across the stack, creating responsive front-ends and robust back-end syst
 Currently exploring the Metaverse with Unity and Blender, building interactive 3D experiences beyond traditional web development.
 
 Let’s connect and build something impactful. 🚀
+
 📧 sanjaykmsmoorthy@gmail.com
 
 🌍 https://sanjaykms.github.io/profile/
